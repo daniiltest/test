@@ -5,3 +5,7 @@
 h1 kykyk
 
 new
+====
+```js
+console.log(123)
+```
